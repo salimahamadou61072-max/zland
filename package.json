@@ -1,0 +1,16 @@
+{
+  "name": "zland-v1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ZLAND V1 \u2014 bilingual entrepreneurial platform starter",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'Static site ready'"
+  },
+  "dependencies": {
+    "stripe": "^17.7.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}
